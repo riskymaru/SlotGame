@@ -1,0 +1,183 @@
+﻿{
+  "frames": {
+    "btn_auto_0": {
+      "frame": {"x": 387, "y": 1964, "w": 130, "h": 81},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 130, "h": 81},
+      "sourceSize": {"w": 130, "h": 81}
+    },
+    "btn_maxbet_0": {
+      "frame": {"x": 257, "y": 1964, "w": 130, "h": 81},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 130, "h": 81},
+      "sourceSize": {"w": 130, "h": 81}
+    },
+    "btn_spin_0": {
+      "frame": {"x": 514, "y": 101, "w": 130, "h": 81},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 130, "h": 81},
+      "sourceSize": {"w": 130, "h": 81}
+    },
+    "SYM5_0": {
+      "frame": {"x": 257, "y": 984, "w": 257, "h": 245},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 245},
+      "sourceSize": {"w": 257, "h": 245}
+    },
+    "SYM5_1": {
+      "frame": {"x": 257, "y": 1229, "w": 257, "h": 245},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 245},
+      "sourceSize": {"w": 257, "h": 245}
+    },
+    "SYM6_0": {
+      "frame": {"x": 0, "y": 1506, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "SYM6_1": {
+      "frame": {"x": 0, "y": 1752, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "SYM7_0": {
+      "frame": {"x": 0, "y": 256, "w": 257, "h": 256},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 256},
+      "sourceSize": {"w": 257, "h": 256}
+    },
+    "SYM7_1": {
+      "frame": {"x": 0, "y": 512, "w": 257, "h": 256},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 256},
+      "sourceSize": {"w": 257, "h": 256}
+    },
+    "SYM8_0": {
+      "frame": {"x": 0, "y": 1260, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 256},
+      "sourceSize": {"w": 257, "h": 256}
+    },
+    "SYM8_1": {
+      "frame": {"x": 0, "y": 0, "w": 257, "h": 256},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 256},
+      "sourceSize": {"w": 257, "h": 256}
+    },
+    "SYM1_0": {
+      "frame": {"x": 257, "y": 492, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "SYM1_1": {
+      "frame": {"x": 257, "y": 738, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "SYM2_0": {
+      "frame": {"x": 257, "y": 0, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "SYM2_1": {
+      "frame": {"x": 257, "y": 246, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "SYM3_0": {
+      "frame": {"x": 257, "y": 1474, "w": 257, "h": 245},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 245},
+      "sourceSize": {"w": 257, "h": 245}
+    },
+    "SYM3_1": {
+      "frame": {"x": 257, "y": 1719, "w": 257, "h": 245},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 245},
+      "sourceSize": {"w": 257, "h": 245}
+    },
+    "SYM4_0": {
+      "frame": {"x": 0, "y": 768, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "SYM4_1": {
+      "frame": {"x": 0, "y": 1014, "w": 257, "h": 246},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 257, "h": 246},
+      "sourceSize": {"w": 257, "h": 246}
+    },
+    "win_container_0": {
+      "frame": {"x": 514, "y": 0, "w": 170, "h": 101},
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {"x": 0, "y": 0, "w": 170, "h": 101},
+      "sourceSize": {"w": 170, "h": 101}
+    }
+  },
+
+  "animations": {
+    "img": [
+      "SYM1_0",
+      "SYM2_0",
+      "SYM3_0",
+      "SYM4_0",
+
+      "SYM1_0",
+      "SYM2_0",
+      "SYM3_0",
+      "SYM4_0",
+
+      "SYM1_1",
+      "SYM2_1",
+      "SYM3_1",
+      "SYM4_1",
+
+      "SYM1_1",
+      "SYM2_1",
+      "SYM3_1",
+      "SYM4_1",
+
+      "symbol_bg_0",
+      "btn_spin_0",
+      "btn_auto_0",
+      "btn_maxbet_0",
+      "win_container_0"
+    ]
+  },
+
+  "meta": {
+    "app": "Adobe Animate",
+    "version": "22.0.0.93",
+    "image": "slot-assets-3.png",
+    "format": "RGBA8888",
+    "size": {"w": 1024, "h": 2048},
+    "scale": "1"
+  }
+}
