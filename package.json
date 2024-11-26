@@ -1,0 +1,47 @@
+{
+  "name": "game-studio",
+  "version": "1.0.0",
+  "description": "game-templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryx2171/game-studio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryx2171/game-studio/issues"
+  },
+  "homepage": "https://github.com/ryx2171/game-studio#readme",
+  "devDependencies": {
+    "body-parser": "^1.20.2",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.7.3",
+    "file-loader": "^6.2.0",
+    "requirejs": "^2.3.6",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.4.2",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "@pixi/filter-glow": "^5.2.1",
+    "@pixi/graphics-smooth": "^1.1.0",
+    "@pixi/sound": "^6.0.0",
+    "@types/howler": "^2.2.7",
+    "@types/matter-js": "^0.18.5",
+    "eventemitter3": "^5.0.1",
+    "gsap": "^3.11.4",
+    "howler": "^2.2.3",
+    "html-webpack-plugin": "^5.5.0",
+    "pixi.js": "^8.0.0",
+    "typescript": "^4.9.4"
+  }
+}
